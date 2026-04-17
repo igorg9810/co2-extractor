@@ -1,23 +1,47 @@
 {
   "snippet_1": [
-    { "value": 12500, "year": 2024 }
+    {
+      "value": 12500,
+      "year": 2024
+    }
   ],
   "snippet_2": [],
   "snippet_3": [
-    { "value": 4800, "year": 2024 }
+    {
+      "value": 4800,
+      "year": 2024
+    }
   ],
   "snippet_4": [
-    { "value": 1234.56, "year": 2023 }
+    {
+      "value": 1234.56,
+      "year": 2023
+    }
   ],
   "snippet_5": [
-    { "value": 8000, "year": 2023 }
+    {
+      "value": 8000,
+      "year": 2023
+    }
   ],
   "snippet_6": [
-    { "value": 57000, "year": 2024 }
+    {
+      "value": 57000,
+      "year": 2024
+    }
   ],
   "snippet_7": [
-    { "value": 18400, "year": 2022 },
-    { "value": 17200, "year": 2023 },
-    { "value": 15900, "year": 2024 }
+    {
+      "value": 18400,
+      "year": 2022
+    },
+    {
+      "value": 17200,
+      "year": 2023
+    },
+    {
+      "value": 15900,
+      "year": 2024
+    }
   ]
 }
